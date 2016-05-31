@@ -5,6 +5,7 @@
   <artifactId>mtest-dep</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
+  <description> little description</description>
   <name>mtest-dep</name>
   <url>http://maven.apache.org</url>
   <dependencies>
