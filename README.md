@@ -8,7 +8,6 @@ mvn package
 mvn install
 ```
 
-
 this fake library has been generated using this maven archetype :
 ```bash
 mvn archetype:generate \
@@ -18,3 +17,4 @@ mvn archetype:generate \
      -DinteractiveMode=false \
 
 ```
+
